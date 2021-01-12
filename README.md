@@ -21,6 +21,7 @@
 
 ## 로그인 페이지
 
+- 로그인
 ![Screenshot_52](https://user-images.githubusercontent.com/74044226/104278306-bbd0c080-54eb-11eb-9596-02be4d9aee47.png)
 
 > 로그인 화면
@@ -28,6 +29,9 @@
 ![Screenshot_53](https://user-images.githubusercontent.com/74044226/104278343-ce4afa00-54eb-11eb-8286-82a8df7741f0.png)
 
 > 로그인이 되었다.
+
+- 로그아웃
+
 
 DB에 저장된 user를 Dao에서 Select하여 일치하면 로그인을 한다.
 
