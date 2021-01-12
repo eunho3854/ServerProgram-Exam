@@ -31,7 +31,7 @@
 > 로그인이 되었다.
 
 - 로그아웃
-
+![Screenshot_48](https://user-images.githubusercontent.com/74044226/104279170-33531f80-54ed-11eb-8ba7-55c30436e07a.png)
 
 DB에 저장된 user를 Dao에서 Select하여 일치하면 로그인을 한다.
 
