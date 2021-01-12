@@ -2,15 +2,8 @@
 
 ## User 테이블 만들기
 
-```
-create table user (
-	id int primary key auto_increment,
-    username varchar(100) not null unique,
-    password varchar(100) not null,
-    email varchar(100) not null,
-    userRole varchar(20)
-);
-```
+![Screenshot_45](https://user-images.githubusercontent.com/74044226/104277969-32b98980-54eb-11eb-8c13-f825a504916f.png)
+
 ## 회원가입 페이지
 
 ```
